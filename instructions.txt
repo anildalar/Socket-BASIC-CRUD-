@@ -1,0 +1,22 @@
+CRUD OPERATION IN SOCKETS
+
+
+
+Name Fields
+
+CRUD using Socket
+
+
+You can exhange data between client and Server using
+1. API
+2. Socket (RealTime Apps)
+
+CommonJS Require
+ESModule Import
+
+
+
+Admin Form
+
+Admin Name Field
+
